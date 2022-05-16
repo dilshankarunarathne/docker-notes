@@ -34,3 +34,4 @@ Problems with VMs:
 	* Each VM needs a full-blown OS 
 	* Slow to start
 	* Resource intensive 
+
