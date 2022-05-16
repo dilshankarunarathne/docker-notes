@@ -35,3 +35,5 @@ Problems with VMs:
 	* Slow to start
 	* Resource intensive 
 
+Benefits of Containers over VMs:
+	
