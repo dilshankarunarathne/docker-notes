@@ -36,4 +36,4 @@ Problems with VMs:
 	* Resource intensive 
 
 Benefits of Containers over VMs:
-	
+	* Allow running multiple apps in isolation
