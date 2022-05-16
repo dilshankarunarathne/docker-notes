@@ -25,4 +25,5 @@ A container is an isolated environment for running an application.
 What is the difference between a Virual Machine and a container ?
 A VM - is an abstraction of a machine (physical hardware). 
 
-Hypervisors are software that are used to simulate computer environments. (Eg: VirtualBox, VM-Ware, Hyper-V)
+Hypervisors are software that are used to simulate computer environments.  
+(Eg: VirtualBox, VM-Ware, Hyper-V)
