@@ -12,3 +12,4 @@ With Docker, you can easily package your applications with anything they need - 
 Say your application needs Node 14, MongoDB 4. You can package your application along with these. And that application package will run anywhere. If it works fine on your local machine, it will also work fine in deployment. 
 
 Another advantage of using Docker:
+Say, you have another team member that works on the same project. 
