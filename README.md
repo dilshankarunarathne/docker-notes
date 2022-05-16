@@ -8,4 +8,4 @@ Reasons:
 	* Software version mismatch on the target machine
 	* Different configuration settings & environment variables 
 
-With Docker, you can easily package your 
+With Docker, you can easily package your applications 
