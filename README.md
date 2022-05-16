@@ -15,3 +15,4 @@ Another advantage of using Docker:
 Say, you have another team member that works on the same project. It can take hours just to get his machine to the same configuration and install all dependancies so he can work alongside you.   
 We can simply tell Docker to bring up your application and Docker will automatically download all the dependancies inside an isolated environment called a **container**.  
 These containers allow multiple applications to use different versions of software dependancies - side by side. 
+
