@@ -28,3 +28,4 @@ A VM - is an abstraction of a machine (physical hardware).
 Hypervisors are software that are used to simulate computer environments. 
 (Eg: VirtualBox, VM-Ware, Hyper-V)
 
+The benefit of VMs for a developer is that we can run our applications in isolation inside these virtual machines.
