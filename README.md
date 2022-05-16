@@ -31,3 +31,4 @@ Hypervisors are software that are used to simulate computer environments.
 The benefit of VMs for a developer is that we can run our applications in isolation, inside these virtual machines. 
 
 Problems with VMs: 
+ * Each VM needs a full-blown OS 
