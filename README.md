@@ -9,4 +9,4 @@ Reasons:
 	* Different configuration settings & environment variables 
 
 With Docker, you can easily package your applications with anything they need - and run it anywhere.  
-Say your application 
+Say your application needs Node 14, MongoDB 4. 
