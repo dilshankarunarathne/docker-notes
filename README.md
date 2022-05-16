@@ -45,3 +45,4 @@ Benefits of Containers over VMs:
 
 # Architecture of Docker
 
+Docker uses a Client-Server architecture. 
