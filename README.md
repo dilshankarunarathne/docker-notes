@@ -23,3 +23,4 @@ Also, when we are done with an application, we can remove it - along with all of
 A container is an isolated environment for running an application. 
 
 What is the difference between a Virual Machine and a container ?
+A VM - is an abstraction of a machine (physical hardware). 
