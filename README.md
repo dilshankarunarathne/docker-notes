@@ -16,4 +16,4 @@ Say, you have another team member that works on the same project. It can take ho
 We can simply tell Docker to bring up your application and Docker will automatically download all the dependancies inside an isolated environment called a **container**.  
 These containers allow multiple applications to use different versions of software dependancies - side by side. 
 
-Also, when we are done with an application, we can remove it - along with all of its dependancies using Docker easily. 
+Also, when we are done with an application, we can remove it - along with all of its dependancies using Docker easily. We don't have to worry about removing dependancies, because the we were using a container. 
