@@ -31,9 +31,9 @@ Hypervisors are software that are used to simulate computer environments.
 The benefit of VMs for a developer is that we can run our applications in isolation, inside these virtual machines.  
 
 Problems with VMs:  
-	* Each VM needs a full-blown OS 
-	* Slow to start
-	* Resource intensive 
+- Each VM needs a full-blown OS 
+- Slow to start
+    * Resource intensive 
 
 Benefits of Containers over VMs:
 	* Allow running multiple apps in isolation
@@ -48,3 +48,8 @@ Benefits of Containers over VMs:
 Docker uses a Client-Server architecture. It has client components that talks to server components using a Restful API.   
 The server is also called the **Docker Engine**. It works on the background and takes care of building and running Docker containers.  
 Technically, it's a process that runs on the OS. 
+
+- First item
+- Second item
+- Third item
+- Fourth item
