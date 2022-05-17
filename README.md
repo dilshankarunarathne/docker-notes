@@ -41,7 +41,7 @@ Benefits of Containers over VMs:
 * Much more lightweight 
 * All containers on a single machine shares the same OS of the host
 * Starts quickly
-    * Needless hardware resources 
+* Needless hardware resources 
 
 # Architecture of Docker
 
