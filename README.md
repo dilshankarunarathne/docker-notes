@@ -47,4 +47,4 @@ Benefits of Containers over VMs:
 
 Docker uses a Client-Server architecture. It has client components that talks to server components using a RESTful API.   
 The server is also called the **Docker Engine**. It works on the background and takes care of building and running Docker containers.  
-Technically, its a process that runs on the OS. 
+Technically, it's a process that runs on the OS. 
