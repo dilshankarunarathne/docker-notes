@@ -38,7 +38,7 @@ Problems with VMs:
 Benefits of Containers over VMs:
 * Allow running multiple apps in isolation
       Just like VMs
-    * Much more lightweight 
+* Much more lightweight 
     * All containers on a single machine shares the same OS of the host
     * Starts quickly
     * Needless hardware resources 
