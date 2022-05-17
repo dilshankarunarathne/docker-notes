@@ -33,7 +33,7 @@ The benefit of VMs for a developer is that we can run our applications in isolat
 Problems with VMs:  
 - Each VM needs a full-blown OS 
 - Slow to start
-    * Resource intensive 
+- Resource intensive 
 
 Benefits of Containers over VMs:
 	* Allow running multiple apps in isolation
