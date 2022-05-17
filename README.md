@@ -1,6 +1,6 @@
 # Docker 
 
-A platform for building, running and shipping apllications on a consistant manner.  
+A platform for building, running and shipping applications on a consistant manner.  
 
 Have you ever been in a situation where, your application works on your local machine, but fails on another...?
 Reasons:
