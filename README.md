@@ -53,4 +53,5 @@ Kernel of a operating system is the part that manage all applications as well
 as the hardware resources like memory and CPU.  
 
 Every operating system has its own kernel.  
-On a Linux machine we can only run Linux containers 
+On a Linux machine we can only run Linux containers.  
+On a 
