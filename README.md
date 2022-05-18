@@ -55,4 +55,4 @@ as the hardware resources like memory and CPU.
 Every operating system has its own kernel.  
 On a Linux machine we can only run Linux containers, because these containers need Linux.    
 On a Windows machine however, we can run both Windows and Linux containers. Because 
-since Windows 10, a custom-built Linux kernel shipps with Windows. 
+since Windows 10, a custom-built Linux kernel ships with Windows. 
