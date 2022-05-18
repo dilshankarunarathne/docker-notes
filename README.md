@@ -50,4 +50,4 @@ The server is also called the **Docker Engine**. It works on the background and 
 Technically, it's a process that runs on the OS. 
 
 Kernel of a operating system is the part that manage all applications as well 
-as the 
+as the hardware resources like memory and CPU.  
