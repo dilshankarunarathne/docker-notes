@@ -57,4 +57,4 @@ On a Linux machine we can only run Linux containers, because these containers ne
 On a Windows machine however, we can run both Windows and Linux containers. Because 
 since Windows 10, a custom-built Linux kernel ships with Windows. So, with the 
 Windows kernel that's always been on Windows, and the new Linux kernel, we can run
-both Windows and Linux 
+both Windows and Linux applications - natively on Windows.  
