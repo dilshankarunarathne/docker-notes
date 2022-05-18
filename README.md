@@ -58,4 +58,4 @@ On a Windows machine however, we can run both Windows and Linux containers. Beca
 since Windows 10, a custom-built Linux kernel ships with Windows. So, with the 
 Windows kernel that's always been on Windows, and the new Linux kernel, we can run
 both Windows and Linux applications - natively on Windows.  
-macOS has its own kernel. 
+macOS has its own kernel. But it doesn't support the use of containers. 
