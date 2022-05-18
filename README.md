@@ -60,3 +60,4 @@ Windows kernel that's always been on Windows, and the new Linux kernel, we can r
 both Windows and Linux applications - natively on Windows.  
 macOS has its own kernel. But it doesn't support the use of containers. So Docker 
 on macOS, uses a light-weight Linux kernel.  
+
