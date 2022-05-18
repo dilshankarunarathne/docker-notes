@@ -54,4 +54,4 @@ as the hardware resources like memory and CPU.
 
 Every operating system has its own kernel.  
 On a Linux machine we can only run Linux containers.  
-On a 
+On a Windows machine however, we can run both 
