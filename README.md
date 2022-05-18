@@ -63,6 +63,6 @@ on macOS, uses a light-weight Linux kernel.
 
 ## Installing Docker
 
-We can visit docs.docker.com/get-docker
+We can visit docs.docker.com/get-docker to download and install docker on any platform.  
 At the time I'm typing this note, there is a Docker Desktop application for 
 Windows and macOS. 
