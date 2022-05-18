@@ -49,7 +49,7 @@ Docker uses a Client-Server architecture. It has client components that talks to
 The server is also called the **Docker Engine**. It works on the background and takes care of building and running Docker containers.  
 Technically, it's a process that runs on the OS. 
 
-Kernel of a operating system is the part that manage all applications as well 
+Kernel of an operating system is the part that manage all applications as well 
 as the hardware resources like memory and CPU.  
 
 Every operating system has its own kernel.  
