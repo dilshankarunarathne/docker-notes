@@ -63,4 +63,4 @@ on macOS, uses a light-weight Linux kernel.
 
 ## Installing Docker
 
-At the time I'm typing this note, Windows and macOS
+At the time I'm typing this note, there is a Docker Desktop application for Windows and macOS
