@@ -61,3 +61,4 @@ both Windows and Linux applications - natively on Windows.
 macOS has its own kernel. But it doesn't support the use of containers. So Docker 
 on macOS, uses a light-weight Linux kernel.  
 
+## Installing Docker
