@@ -54,4 +54,5 @@ as the hardware resources like memory and CPU.
 
 Every operating system has its own kernel.  
 On a Linux machine we can only run Linux containers.  
-On a Windows machine however, we can run both 
+On a Windows machine however, we can run both Windows and Linux containers. Because 
+since Windows 10, a 
