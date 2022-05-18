@@ -62,3 +62,5 @@ macOS has its own kernel. But it doesn't support the use of containers. So Docke
 on macOS, uses a light-weight Linux kernel.  
 
 ## Installing Docker
+
+At the time I'm typing this note, 
