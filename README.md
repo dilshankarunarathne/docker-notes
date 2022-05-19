@@ -80,4 +80,4 @@ This image contains everything that the application needs to run. Such as
 * Third-party libraries 
 * Environment variables
 
-Once we have an image, we can tell Docker to start 
+Once we have an image, we can tell Docker to start a container using that image. 
