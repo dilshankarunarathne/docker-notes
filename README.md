@@ -78,3 +78,4 @@ Eg:
 * A cut-down operating system 
 * A runtime environment 
 * Application files 
+* 
