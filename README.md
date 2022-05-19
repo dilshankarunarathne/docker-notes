@@ -78,4 +78,4 @@ This image contains everything that the application needs to run. Such as
 * A runtime environment 
 * Application files 
 * Third-party libraries 
-* Environment variables 
+* Environment variables
