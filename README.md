@@ -74,6 +74,7 @@ by adding a Dockerfile to it.
 A Dockerfile is a plain text file that includes instructions that Docker uses 
 to package up this application into an image.  
 This image contains everything that the application needs to run.  
+
 Eg: 
 * A cut-down operating system 
 * A runtime environment 
