@@ -71,4 +71,4 @@ Windows and macOS.
 
 We need to Dockerize an application, so it can be run by Docker. This is done 
 by adding a Dockerfile to it.  
-A Dockerfile is a plain text file 
+A Dockerfile is a plain text file that includes instructions 
