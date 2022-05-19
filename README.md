@@ -69,3 +69,4 @@ Windows and macOS.
 
 ## Development Workflow
 
+We need to Dockerize an application 
