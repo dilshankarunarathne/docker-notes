@@ -136,3 +136,5 @@ To build the image, we can use the `docker build` command.
 `-t` can be used to add a tag to identify the image.  
 We also need to give a name for the image.  
 Also, we need to specify - where to find the Dockerfile.  
+
+`docker build`
