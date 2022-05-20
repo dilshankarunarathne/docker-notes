@@ -91,4 +91,4 @@ It is a storage for Docker images that anyone can use.
 Once we push our image to DockerHub, then we can use it on any machine running Docker.  
 
 All the instructions for building an image of an application are written in a
-Dockerfile. With that, we can package our application into an image 
+Dockerfile. With that, we can package our application into an image. 
