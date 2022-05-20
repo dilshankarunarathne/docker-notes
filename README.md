@@ -125,5 +125,5 @@ Then we can use the command `CMD` instruction to execute a command
 (to run the application).  
 We need to invoke Node.js for this. So, it should be `node /app/app.js`.  
 
-
+With the `WORKDIR` command, we can
 `CMD node app.js`
