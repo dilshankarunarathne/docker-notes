@@ -116,4 +116,4 @@ a lightweight linux distribution.
 
 Then we need to specify our program files (application files). We can use the `COPY`
 instruction to do that.  
-With `COPY . /app`, we are specifying that, we need to `COPY` 
+With `COPY . /app`, we are specifying that, we need to `COPY` - `.`
