@@ -98,11 +98,10 @@ Dockerfile. With that, we can package our application into an image.
 Let's Dockerize a 'hello world' JavaScript code.  
 First, we can create an `app.js` in the hello-docker directory as below.  
 `console.log("Hello Docker!");`  
-Then we need to create the Dockerfile. In the same directory  
-
+Then we need to create the Dockerfile. In the same directory
 <code>
-FROM node:alpine <br>
-COPY . /app <br>
-WORKDIR /app <br>
-CMD node app.js  
+  FROM node:alpine <br>
+  COPY . /app <br>
+  WORKDIR /app <br>
+  CMD node app.js  
 </code>
