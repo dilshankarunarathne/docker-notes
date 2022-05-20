@@ -103,6 +103,6 @@ Then we need to create the Dockerfile. In the same directory
 <code>
   FROM node:alpine <br>
   COPY . /app <br>
-  WORKDIR /app  
+  WORKDIR /app <br>
   CMD node app.js  
 </code>
