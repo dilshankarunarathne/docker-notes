@@ -108,10 +108,10 @@ Then we need to create the Dockerfile. In the same directory
 
 
 `` 
-FROM node:alpine   
-COPY . /app  
-WORKDIR /app 
-CMD node app.js 
+    FROM node:alpine   
+    COPY . /app  
+    WORKDIR /app  
+    CMD node app.js  
 `` 
 
 ``Use `code` in your Markdown file.``
