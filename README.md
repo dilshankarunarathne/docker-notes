@@ -90,4 +90,5 @@ _**DockerHub to Docker is like GitHub to Git.**_
 It is a storage for Docker images that anyone can use.  
 Once we push our image to DockerHub, then we can use it on any machine running Docker.  
 
-All the instructions for building an image of an application 
+All the instructions for building an image of an application are written in a
+Dockerfile. 
