@@ -1,3 +1,3 @@
 FROM node:alpine
 COPY . /app
-CMD node app.js
+CMD node /app/app.js
