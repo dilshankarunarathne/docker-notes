@@ -114,4 +114,4 @@ We also need to specify the version of the image we're using. With a colon (**:*
 can specify any version we'd like. For this example, we'll use **alpine**. It is
 a lightweight linux distribution.  
 
-Then we need to specify our program files (application files). 
+Then we need to specify our program files (application files). We can use the `COPY`
