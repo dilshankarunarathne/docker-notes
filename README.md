@@ -92,3 +92,4 @@ Once we push our image to DockerHub, then we can use it on any machine running D
 
 All the instructions for building an image of an application are written in a
 Dockerfile. With that, we can package our application into an image.  
+
