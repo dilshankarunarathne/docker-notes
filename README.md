@@ -132,3 +132,4 @@ So, now we can just use
 
 ## Dockerizing and running Docker images
 
+To build the image
