@@ -117,6 +117,6 @@ a lightweight linux distribution.
 Then we need to specify our program files (application files). We can use the `COPY`
 instruction to do that.  
 With `COPY . /app`, we are specifying that, we need to  
-`COPY` copy  
-`.` all the files in the current directory,  
+`COPY` &nbsp;copy  
+`.`    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;all the files in the current directory,  
 `/app` to the _/app_ directory **in the image**. 
