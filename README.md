@@ -96,4 +96,5 @@ Dockerfile. With that, we can package our application into an image.
 # Hello World (JS) in Docker
 
 Let's Dockerize a 'hello world' JavaScript code.  
-First, we can create an `app.js` as below. 
+First, we can create an `app.js` as below.
+`console.log("Hello Docker!");` 
