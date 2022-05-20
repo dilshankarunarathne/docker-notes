@@ -119,4 +119,4 @@ instruction to do that.
 With `COPY . /app`, we are specifying that, we need to  
 `COPY` copy  
 `.` all the files in the current directory,  
-`/app` to the /app directory in the image. 
+`/app` to the /app directory **in the image**. 
