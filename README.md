@@ -127,4 +127,5 @@ We need to invoke Node.js for this. So, it should be `node /app/app.js`.
 
 With the `WORKDIR` command, we can specify a working directory. So, after that, 
 any command will execute in the working directory.  
+
 `CMD node app.js`
