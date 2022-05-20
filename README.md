@@ -138,6 +138,7 @@ We also need to give a name for the image.
 Also, we need to specify - where to find the Dockerfile.  
 
 `docker build -t hello-docker .`  
+
 `-t` adds a default tag by Docker.  
 `hello-docker` is the image name.  
 `.` indicates the current directory to find the Dockerfile.  
