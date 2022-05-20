@@ -133,4 +133,4 @@ So, now we can just use
 ## Dockerizing and running Docker images
 
 To build the image, we can use the `docker build` command.  
-`-t` 
+`-t` can be used to add a tag 
