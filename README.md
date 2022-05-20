@@ -110,3 +110,4 @@ CMD node app.js
 and install node on top of it. `FROM linux/node` or we can start with a node image.  
 This node image is already built on a linux image.  
 And these images are officially published on [DockerHub](http://hub.docker.com/search?q=node&type=image).  
+We also need to specify 
