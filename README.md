@@ -88,3 +88,4 @@ run applications in Docker, instead of running them directly from our machine.
 Once we have an image, we can push it to a **Docker registry** on **Docker Hub**.  
 _**DockerHub to Docker is like GitHub to Git.**_  
 It is a storage for Docker images that anyone can use.  
+Once we push our image to DockerHub 
