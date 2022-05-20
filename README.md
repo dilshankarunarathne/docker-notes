@@ -101,7 +101,7 @@ First, we can create an `app.js` in the hello-docker directory as below.
 Then we need to create the Dockerfile. In the same directory  
 `
   FROM node:alpine  
-  COPY . /app
+  COPY . /app  
   WORKDIR /app
   CMD node app.js
 `
