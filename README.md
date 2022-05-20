@@ -118,5 +118,5 @@ Then we need to specify our program files (application files). We can use the `C
 instruction to do that.  
 With `COPY . /app`, we are specifying that, we need to  
 `COPY` &nbsp; copy  
-`.`    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; all the files in the current directory,  
+`.` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; all the files in the current directory,  
 `/app` &nbsp; to the _/app_ directory **in the image**. 
