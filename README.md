@@ -123,4 +123,4 @@ With `COPY . /app`, we are specifying that, we need to
 
 Then we can use the command `CMD` instruction to execute a command 
 (to run the application).  
-We
+We need to invoke node.js for this.
