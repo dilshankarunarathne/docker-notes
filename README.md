@@ -115,4 +115,4 @@ can specify any version we'd like. For this example, we'll use **alpine**. It is
 a lightweight linux distribution.  
 
 Then we need to specify our program files (application files). We can use the `COPY`
-instruction to do that. 
+instruction to do that.  
