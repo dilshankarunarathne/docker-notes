@@ -106,4 +106,4 @@ WORKDIR /app
 CMD node app.js  
 </code></pre>
 
-`FROM` keyword specifies 
+`FROM` keyword specifies the base image. 
