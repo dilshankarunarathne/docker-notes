@@ -93,7 +93,7 @@ Once we push our image to DockerHub, then we can use it on any machine running D
 All the instructions for building an image of an application are written in a
 Dockerfile. With that, we can package our application into an image.  
 
-# Writing the Dockerfile
+## Writing the Dockerfile
 
 Let's Dockerize a 'hello world' JavaScript code.  
 First, we can create an `app.js` in the hello-docker directory as below.  
