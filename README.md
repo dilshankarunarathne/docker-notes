@@ -86,4 +86,4 @@ the image. So, the application loads inside the container, and that is how we
 run applications in Docker, instead of running them directly from our machine.
 
 Once we have an image, we can push it to a **Docker registry** on **Docker Hub**.
-DockerHub is to Docker 
+DockerHub to Docker 
