@@ -112,4 +112,4 @@ This node image is already built on a linux image.
 And these images are officially published on [DockerHub](http://hub.docker.com/search?q=node&type=image).  
 We also need to specify the version of the image we're using. With a colon **:** we 
 can specify any version we'd like. For this example, we'll use **alpine**. It is
-a lightweight linux distribution. 
+a lightweight linux distribution.  
