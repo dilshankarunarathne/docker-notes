@@ -137,4 +137,4 @@ To build the image, we can use the `docker build` command.
 We also need to give a name for the image.  
 Also, we need to specify - where to find the Dockerfile.  
 
-`docker build -t `
+`docker build -t hello-docker .`
