@@ -83,4 +83,5 @@ This image contains everything that the application needs to run. Such as
 Once we have an image, we can tell Docker to start a container using that image.  
 A container is a process, which has its own file system, which is provided by 
 the image. So, the application loads inside the container, and that is how we 
-run applications in Docker, instead of running them directly from our machine.  
+run applications in Docker, instead of running them directly from our machine.
+
