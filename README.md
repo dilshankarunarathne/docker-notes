@@ -139,3 +139,4 @@ Also, we need to specify - where to find the Dockerfile.
 
 `docker build -t hello-docker .`
 `-t` adds a default tag by Docker.  
+`hello-docker` 
