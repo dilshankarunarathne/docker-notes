@@ -121,4 +121,5 @@ With `COPY . /app`, we are specifying that, we need to
 `.` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; all the files in the current directory,  
 `/app` &nbsp; to the _/app_ directory **in the image's** file system.  
 
-Then we can use the command `CMD` instruction to execute a command (to run the application)
+Then we can use the command `CMD` instruction to execute a command 
+(to run the application)
