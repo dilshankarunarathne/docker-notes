@@ -107,4 +107,4 @@ CMD node app.js
 </code></pre>
 
 `FROM` keyword specifies the base image. We can either start from a linux image 
-and install node on top of it. `FROM linux/node` or we can
+and install node on top of it. `FROM linux/node` or we can start with node. 
