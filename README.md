@@ -130,3 +130,4 @@ any command will execute in the working directory.
 So, now we can just use  
 `CMD node app.js`
 
+## Running a Docker image
