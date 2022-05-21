@@ -169,4 +169,4 @@ So, we have a repository called `hello-docker`, and it has a tag called latest.
 This is a tag automatically added by Docker. These tags are used for versioning 
 the images.  
 Each image also has a unique identifier.  
-The creation time and the size of the image is also
+The creation time and the size of the image is also displayed
