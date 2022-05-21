@@ -165,4 +165,4 @@ REPOSITORY     TAG       IMAGE ID       CREATED         SIZE
 hello-docker   latest    99546e5fe110   9 minutes ago   172MB
 </code></pre>
 
-So, we have a repository called `hello-docker`
+So, we have a repository called `hello-docker`, and it has a tag calle 
