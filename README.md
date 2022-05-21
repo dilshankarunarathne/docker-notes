@@ -148,3 +148,4 @@ After the image is built this message will be displayed.
 
 The image is not stored in this working directory. Docker manages its images itself
 without reveling them to the outside.  
+
