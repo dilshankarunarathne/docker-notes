@@ -176,4 +176,4 @@ So, this image contains
 * Node
 * Application files
 If we used a different Node image, that's based on a different version of Linux 
-we would get a 
+we would get a different size. 
