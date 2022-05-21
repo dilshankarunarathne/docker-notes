@@ -175,4 +175,4 @@ So, this image contains
 * Alpine Linux
 * Node
 * Application files
-If we used a different Node image, 
+If we used a different Node image, that's based on a
