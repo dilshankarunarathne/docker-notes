@@ -150,3 +150,4 @@ The image is not stored in this working directory. Docker manages its images its
 without reveling them to the outside.  
 
 We can use `docker images` command on terminal to see all the images on the machine.  
+
