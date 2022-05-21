@@ -143,5 +143,5 @@ Also, we need to specify - where to find the Dockerfile.
 `hello-docker` is the image name.  
 `.` indicates the current directory to find the Dockerfile.  
 
-
+After the image is built 
 `Use 'docker scan' to run Snyk tests against images to find vulnerabilities and learn how to fix them`
