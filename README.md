@@ -147,4 +147,4 @@ After the image is built this message will be displayed.
 `Use 'docker scan' to run Snyk tests against images to find vulnerabilities and learn how to fix them`
 
 The image is not stored in this working directory. Docker manages its images itself
-without reveling 
+without reveling them to the outside.  
