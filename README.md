@@ -142,3 +142,4 @@ Also, we need to specify - where to find the Dockerfile.
 `-t` adds a default tag by Docker.  
 `hello-docker` is the image name.  
 `.` indicates the current directory to find the Dockerfile.  
+
