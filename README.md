@@ -185,4 +185,5 @@ C:\Projects\Docker\docker training\docker-training\hello-docker>docker run hello
 Hello Docker!
 </code></pre>
 
-Now, if we want, we can publish this image on DockerHub - so, anyone 
+Now, if we want, we can publish this image on DockerHub - so, anyone can use this
+image. 
