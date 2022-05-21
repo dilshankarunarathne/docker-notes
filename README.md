@@ -158,7 +158,7 @@ REPOSITORY     TAG       IMAGE ID       CREATED         SIZE
 hello-docker   latest    99546e5fe110   6 minutes ago   172MB
 </code></pre>
 
-Also, `docker image ls` command 
+Also, `docker image ls` command can be used for the same.
 <pre><code>
 C:\Projects\Docker\docker training\docker-training\hello-docker>docker image ls
 REPOSITORY     TAG       IMAGE ID       CREATED         SIZE
