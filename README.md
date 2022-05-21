@@ -166,5 +166,6 @@ hello-docker   latest    99546e5fe110   9 minutes ago   172MB
 </code></pre>
 
 So, we have a repository called `hello-docker`, and it has a tag called latest. 
-This is a tag automatically added by Docker. 
+This is a tag automatically added by Docker.  
+
 
