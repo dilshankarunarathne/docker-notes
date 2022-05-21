@@ -174,3 +174,4 @@ Node on linux-alpine, we've ended up having 112 megabytes of data in our image.
 So, this image contains 
 * Alpine Linux
 * Node
+* Application files
