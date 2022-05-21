@@ -161,3 +161,4 @@ hello-docker   latest    99546e5fe110   6 minutes ago   172MB
 C:\Projects\Docker\docker training\docker-training\hello-docker>docker image ls
 REPOSITORY     TAG       IMAGE ID       CREATED         SIZE
 hello-docker   latest    99546e5fe110   9 minutes ago   172MB
+</code></pre>
