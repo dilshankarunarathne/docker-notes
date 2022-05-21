@@ -178,3 +178,4 @@ So, this image contains
 
 If we used a different Node image, that's based on a different version of Linux 
 we would get a different size for our image. 
+
