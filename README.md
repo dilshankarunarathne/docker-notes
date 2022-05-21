@@ -183,4 +183,4 @@ To run this image, we can just use the command `docker run <image-name>`.
 <pre><code>
 C:\Projects\Docker\docker training\docker-training\hello-docker>docker run hello-docker
 Hello Docker!
-</code>
+</code></pre>
