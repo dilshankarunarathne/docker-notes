@@ -150,7 +150,7 @@ The image is not stored in this working directory. Docker manages its images its
 without reveling them to the outside.  
 
 We can use `docker images` command on terminal to see all the images on the machine.  
-<code>
+<pre><code>
 C:\Projects\Docker\docker training\docker-training\hello-docker>docker images
 REPOSITORY     TAG       IMAGE ID       CREATED         SIZE
 hello-docker   latest    99546e5fe110   6 minutes ago   172MB
