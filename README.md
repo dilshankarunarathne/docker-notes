@@ -186,4 +186,4 @@ Hello Docker!
 </code></pre>
 
 Now, if we want, we can publish this image on DockerHub - so, anyone can use this
-image. 
+image. For testing - or production
