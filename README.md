@@ -144,7 +144,7 @@ Also, we need to specify - where to find the Dockerfile.
 `.` indicates the current directory to find the Dockerfile.  
 
 After the image is built this message will be displayed.  
-`Use 'docker scan' to run Snyk tests against images to find vulnerabilities and learn how to fix them`
+<pre><code>Use 'docker scan' to run Snyk tests against images to find vulnerabilities and learn how to fix them`
 
 The image is not stored in this working directory. Docker manages its images itself
 without reveling them to the outside.  
