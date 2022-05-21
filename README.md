@@ -180,5 +180,6 @@ If we used a different Node image, that's based on a different version of Linux
 we would get a different size for our image. 
 
 To run this image, we can just use the command `docker run <image-name>`.  
+
 C:\Projects\Docker\docker training\docker-training\hello-docker>docker run hello-docker
 Hello Docker!
