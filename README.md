@@ -170,4 +170,4 @@ This is a tag automatically added by Docker. These tags are used for versioning
 the images.  
 Each image also has a unique identifier.  
 The creation time and the size of the image is also displayed. Because we used 
-Node on linux-alpine, 
+Node on linux-alpine, we've ended up 
