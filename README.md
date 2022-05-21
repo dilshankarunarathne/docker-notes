@@ -173,3 +173,4 @@ The creation time and the size of the image is also displayed. Because we used
 Node on linux-alpine, we've ended up having 112 megabytes of data in our image.  
 So, this image contains 
 * Alpine Linux
+* Node
