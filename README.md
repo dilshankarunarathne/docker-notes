@@ -146,3 +146,4 @@ Also, we need to specify - where to find the Dockerfile.
 After the image is built this message will be displayed.  
 `Use 'docker scan' to run Snyk tests against images to find vulnerabilities and learn how to fix them`
 
+The image is not stored 
