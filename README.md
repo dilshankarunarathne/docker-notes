@@ -199,3 +199,7 @@ or test our Docker containers online.
 
 We will get a blank machine, with a Linux OS and Docker.  
 
+<pre><code>
+C:\Projects\Docker\docker training\docker-training\hello-docker>docker run hello-docker
+Hello Docker!
+</code></pre>
