@@ -208,4 +208,4 @@ on play with docker
 </code></pre>
 
 We can use `docker pull <username>/<image name>` command to pull an image 
-from DockerHub. 
+from DockerHub.  
