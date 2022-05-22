@@ -212,3 +212,4 @@ from DockerHub.
 After that, if we list all the available images, we will be able to see the 
 image we just pulled.  
 We can run it with `docker run` command as usual.  
+
