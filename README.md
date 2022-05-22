@@ -202,4 +202,5 @@ We will get a blank machine, with a Linux OS and Docker.
 <pre><code>
 outputs of
 docker version
+on play with docker
 </code></pre>
