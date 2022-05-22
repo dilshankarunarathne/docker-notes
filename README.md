@@ -194,4 +194,4 @@ After we publish our image to DockerHub, we can pull it and run it anywhere.
 [Play-with-Docker](labs.play-with-docker.com) is a platform we can use to run 
 or test our Docker containers online.  
 * We can sign in with our **Docker ID**.  
-Click on **Start** button to start a lab.  
+* Click on **Start** button to start a lab.  
