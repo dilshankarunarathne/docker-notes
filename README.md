@@ -198,3 +198,4 @@ or test our Docker containers online.
 * Click on **New Instance** button to start a new VM.  
 
 We will get a blank machine, with a Linux OS and Docker.  
+
