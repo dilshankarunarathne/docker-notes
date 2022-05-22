@@ -207,3 +207,4 @@ docker version
 on play with docker
 </code></pre>
 
+docker pull <username>/<image name>
