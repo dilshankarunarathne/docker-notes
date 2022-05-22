@@ -201,11 +201,7 @@ We will get a blank machine, with a Linux OS and Docker. It doesn't even have
 Node installed. But because it has Docker, we can just pull an image from 
 DockerHub and run it.  
 
-<pre><code>
-outputs of
-docker version
-on play with docker
-</code></pre>
+
 
 We can use `docker pull <username>/<image name>` command to pull an image 
 from DockerHub.  
