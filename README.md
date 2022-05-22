@@ -200,6 +200,7 @@ or test our Docker containers online.
 We will get a blank machine, with a Linux OS and Docker. It doesn't even have 
 Node installed. But because it has Docker, we can just pull an image from 
 
+
 <pre><code>
 outputs of
 docker version
