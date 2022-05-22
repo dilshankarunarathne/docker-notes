@@ -209,3 +209,4 @@ on play with docker
 
 We can use `docker pull <username>/<image name>` command to pull an image 
 from DockerHub.  
+After that, if we list all 
