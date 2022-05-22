@@ -191,4 +191,5 @@ image. For testing - or production all we have to do is to pull and run this ima
 # 
 
 After we publish our image to DockerHub, we can pull it and run it anywhere.  
-[Play-with-Docker](labs.play-with-docker.com) is a platform we can use 
+[Play-with-Docker](labs.play-with-docker.com) is a platform we can use to run 
+or 
