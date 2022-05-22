@@ -198,7 +198,7 @@ or test our Docker containers online.
 * Click on **New Instance** button to start a new VM.  
 
 We will get a blank machine, with a Linux OS and Docker. It doesn't even have 
-Node installed. But because it has Docker, 
+Node installed. But because it has Docker, we can just pull an image from 
 
 <pre><code>
 outputs of
