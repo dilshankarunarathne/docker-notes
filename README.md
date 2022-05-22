@@ -197,4 +197,4 @@ or test our Docker containers online.
 * Click on **Start** button to start a lab.  
 * Click on **New Instance** button to start a new VM.  
 
-We
+We will get a blank machine, 
