@@ -189,4 +189,5 @@ Now, if we want, we can publish this image on DockerHub - so, anyone can use thi
 image. For testing - or production all we have to do is to pull and run this image.  
 
 
+
 After we publish our image to DockerHub, we can pull it and run it anywhere.  
