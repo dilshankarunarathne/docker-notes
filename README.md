@@ -195,4 +195,4 @@ After we publish our image to DockerHub, we can pull it and run it anywhere.
 or test our Docker containers online.  
 * Sign in with our **Docker ID**.  
 * Click on **Start** button to start a lab.  
-* Click on 
+* Click on New Instance button 
