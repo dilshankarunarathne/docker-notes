@@ -200,5 +200,6 @@ or test our Docker containers online.
 We will get a blank machine, with a Linux OS and Docker.  
 
 <pre><code>
-
+outputs of
+docker version
 </code></pre>
