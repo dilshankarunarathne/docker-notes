@@ -99,12 +99,14 @@ Let's Dockerize a 'hello world' JavaScript code.
 First, we can create an `app.js` in the hello-docker directory as below.  
 `console.log("Hello Docker!");`  
 Then we need to create the Dockerfile. In the same director 
-<pre><code> 
+
+```dockerfile
 FROM node:alpine   
 COPY . /app  
 WORKDIR /app  
 CMD node app.js  
 </code></pre>
+```
 
 `FROM` keyword specifies the base image. We can either start from a linux image 
 and install node on top of it. `FROM linux/node` or we can start with a node image.  
