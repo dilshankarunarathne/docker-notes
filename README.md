@@ -213,5 +213,3 @@ We can run it with `docker run` command as usual.
 
 # Linux 
 
-
-
