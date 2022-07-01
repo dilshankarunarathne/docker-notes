@@ -230,7 +230,10 @@ command to run the image. If we have this image locally, Docker will start a con
 When we use the `docker run ubuntu` command, it automatically creates a container with the pulled (or existed) image. But because we never interacted with the container, it will stop after the image is downloaded and installed.  
 `docker ps` command will show all the running processes of docker. But if we use the `docker ps -a` command (**-a**for **all**), we will be able to see the newly added ubuntu image on the images list.  
 
-To start a container and interact with it, we can use the command `docker run -it ubuntu` (**-it** for **interactive mode**). 
-
-
+To start a container and interact with it, we can use the command `docker run -it ubuntu` (**-it** for **interactive mode**).  
+```cmd
+C:\Users\Dilshan Karunarathne>docker run -it ubuntu
+root@8c915e73ee0f:/#
+```
+We will get a **shell** from this command. The **shell** will execute the commands in the container. 
 
