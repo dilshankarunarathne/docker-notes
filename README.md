@@ -263,10 +263,12 @@ In Linux, the root directory `/` is the top of the file system. It contains the 
 * /root - root user's home directory
 * /lib  - libraries, software dependencies 
 * /var  - variables
-* /proc - process information
+* /proc - running process information 
 * And also: /lib64, /media, /mnt, /opt, /sbin, /srv, /sys, /tmp, /usr 
 
-In Linux, everything is a file, including devices, directories, network sockets, pipes and etc.  
+In Linux, everything is a file, including devices, **directories**, network sockets, pipes, **running processes** and etc.  
 Files that are used for accessing devices are stored in the `/dev` directory.  
 The files that are updated frequently are stored in the `/var` directory, like logfiles and app data.  
+
+
 
