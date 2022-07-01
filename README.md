@@ -290,7 +290,7 @@ The files that are updated frequently are stored in the `/var` directory, like l
 * We can use the `mv <source-file-path> <dest-file-path>` command to **move** a file. 
 * `cp <source-file-path> <dest-file-path>` command can be used to **copy** a file. 
 * `rm <file-path>` command can be used to **remove** a file.  
-  `rm -r <directory-path>` command can be used to **remove** a directory.  
+  `rm -r <directory-path>` command can be used to **remove** a directory. (**r** stands for **recursive**)  
   `rm -rf <directory-path>` command can be used to **remove** a directory and all its subdirectories. 
 * 
 
