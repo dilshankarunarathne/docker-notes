@@ -371,7 +371,8 @@ We can also use the **echo** command with the variable name prefixed with a **$*
 To set an environment variable, we can use the **export** command. For example: `export DB_USER=test_user`  
 But, this variable will only be saved for the current terminal session. If we restart the terminal, it will be removed. 
 
-
+To make this presistant, we need to save it in a special file.  
+There is a `.bashrc` file in the home directory. 
 
 
 
