@@ -287,5 +287,5 @@ The files that are updated frequently are stored in the `/var` directory, like l
 * `mkdir` command can be used to **create** a **directory**. 
 * To get to the current user's home directory we can use `cd ~` command. 
 
-
+To create a new file, we can use the `touch` command. 
 
