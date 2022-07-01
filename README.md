@@ -310,6 +310,9 @@ If we read the content of a file, let's say `file1.txt` - it will automatically 
 But we can use the redirection operator `>` to output it to something else. For example:  
 `cat file1.txt > file2.txt` will output the content of `file1.txt` to `file2.txt`. 
 
+The `cat` command can also be used to **concatenate** two files. For example:  
+`cat file1.txt file2.txt > file3.txt` will concatenate the content of `file1.txt` and `file2.txt` and output it to `file3.txt`.  
+
 
 
 
