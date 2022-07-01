@@ -380,6 +380,8 @@ root@2f5656e1s65:~# echo DB_USER=test_user >> .bashrc
 Notice that we have used `>>` instead of usual `>`. That is to specify the **append** operation.  
 If we had used `>`, it will overwrite the file with this line. 
 
-We should never store sensitive information as environment variables. Because they are saved as plain text. 
+We should never store sensitive information as environment variables. Because they are saved as plain text.  
+
+Note that, the changes we make to the `bashrc` is only applied after the start of a new session. So, they will not be available till we restart our terminal session. 
 
 
