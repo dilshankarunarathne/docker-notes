@@ -243,7 +243,7 @@ We will get a **shell** from this command. The **shell** will execute the comman
 And after the `:` we have a `/` character. This is the **working directory** of the container. The forward slash represents the root directory of the container.  
 The `#` means that we have the highest privilages. If we logged in as a non-root user, we'd see a `$` sign.  
 
-## Package Managers 
+## Package Manager 
 
 Most of the softwares and development tools provides a package manager. For example: yarn, npm, pip, maven, gradle, etc.  
 Ubuntu has the **apt** package manager, which stands for *Advanced Package Tool*.  
@@ -271,6 +271,8 @@ In Linux, the root directory `/` is the top of the file system. It contains the 
 In Linux, everything is a file, including devices, **directories**, network sockets, pipes, **running processes** and etc.  
 Files that are used for accessing devices are stored in the `/dev` directory.  
 The files that are updated frequently are stored in the `/var` directory, like logfiles and app data.  
+
+## Commands 
 
 * There is a command `pwd` that can be used to **print** the **working directory**. 
 * The `ls` command can be used to **list** the files in the working directory.  
