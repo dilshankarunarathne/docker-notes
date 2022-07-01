@@ -264,15 +264,7 @@ In Linux, the root directory `/` is the top of the file system. It contains the 
 * /lib
 * /var
 * /proc
-* /lib64
-* /media
-* /mnt
-* /opt
-* /sbin
-* /srv
-* /sys
-* /tmp
-* /usr
+* And also: /lib64, /media, /mnt, /opt, /sbin, /srv, /sys, /tmp, /usr 
 
 
 
