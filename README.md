@@ -145,26 +145,26 @@ Also, we need to specify - where to find the Dockerfile.
 `.` indicates the current directory to find the Dockerfile.  
 
 After the image is built this message will be displayed.  
-<pre><code>
+```
 Use 'docker scan' to run Snyk tests against images to find vulnerabilities and learn how to fix them
-</code></pre>
+```
 
 The image is not stored in this working directory. Docker manages its images itself
 without reveling them to the outside.  
 
 We can use `docker images` command on terminal to see all the images on the machine.  
-<pre><code>
+```
 C:\Projects\Docker\docker training\docker-training\hello-docker>docker images
 REPOSITORY     TAG       IMAGE ID       CREATED         SIZE
 hello-docker   latest    99546e5fe110   6 minutes ago   172MB
-</code></pre>
+```
 
 Also, `docker image ls` command can be used for the same.
-<pre><code>
+```
 C:\Projects\Docker\docker training\docker-training\hello-docker>docker image ls
 REPOSITORY     TAG       IMAGE ID       CREATED         SIZE
 hello-docker   latest    99546e5fe110   9 minutes ago   172MB
-</code></pre>
+```
 
 So, we have a repository called `hello-docker`, and it has a tag called latest. 
 This is a tag automatically added by Docker. These tags are used for versioning 
