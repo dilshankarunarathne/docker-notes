@@ -299,7 +299,7 @@ The files that are updated frequently are stored in the `/var` directory, like l
 * `cat <file-path>` command can be used to **print** the contents of a file.  
   This command is useful if the content of our file is short (fits on a single page). 
 * `more <file-path>` command can be used to **print** the contents of a file in more readable format.  
-  `less <file-path>` command can be used to **print** the contents of a file in more readable format.
+  `less <file-path>` command can be used to **print** the contents of a file in more readable format. This is a newer command that is supposed to replace `more`. We might have to manually install it. 
 * `wc <file-path>` command can be used to **count** the lines, words and characters in a file. 
 
 
