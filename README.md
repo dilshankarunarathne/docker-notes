@@ -235,5 +235,7 @@ To start a container and interact with it, we can use the command `docker run -i
 C:\Users\Dilshan Karunarathne>docker run -it ubuntu
 root@8c915e73ee0f:/#
 ```
-We will get a **shell** from this command. The **shell** will execute the commands in the container. 
+We will get a **shell** from this command. The **shell** will execute the commands in the container.  
+`root@8c915e73ee0f:/#` is the **shell prompt**.  
+
 
