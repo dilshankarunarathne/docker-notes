@@ -211,7 +211,7 @@ After that, if we list all the available images, we will be able to see the
 image we just pulled.  
 We can run it with `docker run` command as usual.  
 
-# Linux Containers 
+# Linux 
 
 Docker is built on basic Linux concepts. We must be familiar with Linux commands to easily use Docker.  
 
@@ -243,7 +243,7 @@ We will get a **shell** from this command. The **shell** will execute the comman
 And after the `:` we have a `/` character. This is the **working directory** of the container. The forward slash represents the root directory of the container.  
 The `#` means that we have the highest privilages. If we logged in as a non-root user, we'd see a `$` sign.  
 
-# Package Managers 
+## Package Managers 
 
 Most of the softwares and development tools provides a package manager. For example: yarn, npm, pip, maven, gradle, etc.  
 Ubuntu has the **apt** package manager, which stands for *Advanced Package Tool*.  
@@ -253,6 +253,8 @@ We can install a package using *apt* by the command `apt install <package name>`
 Linux has a package database that contains all the packages. But not all these packages are installed in our machine. We can use the command `apt list` to list all the packages installed in our machine. Some of those packages might have **installed** after the name. And others are not installed.  
 If the package we want to install does not exist in the package database, we need to update the packages list with the `apt update` command. We should do this often when we install packages.  
 We can remove a package with the `apt remove <package name>` command.  
+
+## File System 
 
 In Linux, the root directory `/` is the top of the file system. It contains the following directories:
 * /bin  - binaries for programs 
@@ -269,6 +271,8 @@ In Linux, the root directory `/` is the top of the file system. It contains the 
 In Linux, everything is a file, including devices, **directories**, network sockets, pipes, **running processes** and etc.  
 Files that are used for accessing devices are stored in the `/dev` directory.  
 The files that are updated frequently are stored in the `/var` directory, like logfiles and app data.  
+
+
 
 
 
