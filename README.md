@@ -282,6 +282,8 @@ The files that are updated frequently are stored in the `/var` directory, like l
   `cd ..` will change the working directory to the parent directory.  
   `cd /` will change the working directory to the root directory.  
   `cd /home` will change the working directory to the home directory of the user.  
+* `mkdir` command can be used to **create** a **directory**.  
+  
 * 
 
 
