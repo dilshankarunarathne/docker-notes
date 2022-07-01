@@ -314,6 +314,9 @@ The `cat` command can also be used to **concatenate** two files. For example:
 `cat file1.txt file2.txt > file3.txt` will concatenate the content of `file1.txt` and `file2.txt` and output it to `file3.txt`.  
 If we hadn't used the redirection, content of both files will be printed out to the console. 
 
+The redirection operator can be used pretty much anywhere. For example, if we have just a single line to write into a file, we don't need to use `nano`, we could just redirect the `echo` command.  
+`echo "Hello World" > file1.txt` will output `Hello World` to `file1.txt`. 
+
 
 
 
