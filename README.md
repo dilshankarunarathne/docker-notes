@@ -312,6 +312,8 @@ But we can use the redirection operator `>` to output it to something else. For 
 
 The `cat` command can also be used to **concatenate** two files. For example:  
 `cat file1.txt file2.txt > file3.txt` will concatenate the content of `file1.txt` and `file2.txt` and output it to `file3.txt`.  
+If we hadn't used the redirection, content of both files will be printed out to the console. 
+
 
 
 
