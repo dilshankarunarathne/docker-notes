@@ -307,7 +307,10 @@ The files that are updated frequently are stored in the `/var` directory, like l
 In Linux, standard input represents the keyboard, and standard output is the screen. But we can always change the source of thes inputs or outputs. This is called **redirection**.  
 
 If we read the content of a file, let's say `file1.txt` - it will automatically be printed out to the console because that is the standard output.  
-But we can use the 
+But we can use the redirection operator `>` to output it to something else. For example:  
+`cat file1.txt > file2.txt` will output the content of `file1.txt` to `file2.txt`. 
+
+
 
 
 
