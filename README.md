@@ -243,6 +243,8 @@ We will get a **shell** from this command. The **shell** will execute the comman
 And after the `:` we have a `/` character. This is the **working directory** of the container. The forward slash represents the root directory of the container.  
 The `#` means that we have the highest privilages. If we logged in as a non-root user, we'd see a `$` sign.  
 
+# Package Managers 
+
 
 
 
