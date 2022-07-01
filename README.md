@@ -382,25 +382,3 @@ If we had used `>`, it will overwrite the file with this line.
 
 
 
-* `export <variable-name>=<value>` command can be used to **set** an environment variable.  
-* `unset <variable-name>` command can be used to **unset** an environment variable.  
-* `echo $<variable-name>` command can be used to **print** the value of an environment variable.  
-* `echo $$` command can be used to **print** the process ID of the current process.  
-* `echo $PATH` command can be used to **print** the path of the current process.  
-* `echo $HOME` command can be used to **print** the home directory of the current process.  
-* `echo $USER` command can be used to **print** the user name of the current process.  
-* `echo $SHELL` command can be used to **print** the shell of the current process.  
-* `echo $HOSTNAME` command can be used to **print** the host name of the current process.  
-* `echo $HOSTTYPE` command can be used to **print** the host type of the current process.  
-* `echo $LANG` command can be used to **print** the language of the current process.  
-* `echo $LC_ALL` command can be used to **print** the language of the current process.  
-* `echo $LC_CTYPE` command can be used to **print** the language of the current process.  
-* `echo $LC_NUMERIC` command can be used to **print** the language of the current process.  
-* `echo $LC_TIME` command can be used to **print** the language of the current process.  
-* `echo $LC_COLLATE` command can be used to **print** the language of the current process.  
-* `echo $LC_MONETARY` command can be used to **print** the language of the current process.  
-* `echo $LC_MESSAGES` command can be used to **print** the language of the current process.  
-* `echo $LC_PAPER` command can be used to **print** the language of the current process.
-
-
-
