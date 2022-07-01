@@ -291,5 +291,17 @@ The files that are updated frequently are stored in the `/var` directory, like l
 * `rm <file-path>` command can be used to **remove** a file.  
   `rm -r <directory-path>` command can be used to **remove** a directory. (**r** stands for **recursive**)  
   `rm -rf <directory-path>` command can be used to **remove** a directory and all its subdirectories. 
-* 
+* `find <directory-path>` command can be used to **find** files in a directory. 
+* `grep <pattern> <file-path>` command can be used to **search** for a pattern in a file.  
+  `grep -r <pattern> <directory-path>` command can be used to **search** for a pattern in all the files in a directory. 
+* `head <file-path>` command can be used to **print** the first 10 lines of a file.  
+  `tail <file-path>` command can be used to **print** the last 10 lines of a file. 
+* `cat <file-path>` command can be used to **print** the contents of a file. 
+* `more <file-path>` command can be used to **print** the contents of a file in more readable format.  
+  `less <file-path>` command can be used to **print** the contents of a file in more readable format.
+* `wc <file-path>` command can be used to **count** the lines, words and characters in a file. 
+
+
+
+
 
