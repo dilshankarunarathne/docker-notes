@@ -312,7 +312,8 @@ By chaining commands with semi-colons, if a command fails, the next command will
 To make sure - if a command fails, the subsequent commands will not execute, we can chain commands with the and operator `&&`.  
 For example: `pwd && ls -l && cd /home && ls -l`. This command will print the working directory, list the files in the working directory, change the working directory to the home directory and list the files in the home directory. 
 If the first command fails, the second command will not execute.  
-
+There is also an OR operator `||` that can be used to chain commands.  
+For example: `pwd || ls -l || cd /home || ls -l`. This command will print the working directory, list the files in the working directory, change the working directory to the home directory and list the files in the home directory. If the first command fails, the second command will execute. 
 
 ## Standard I/O 
 
