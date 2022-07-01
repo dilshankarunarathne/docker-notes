@@ -273,7 +273,10 @@ Files that are used for accessing devices are stored in the `/dev` directory.
 The files that are updated frequently are stored in the `/var` directory, like logfiles and app data.  
 
 * There is a command `pwd` that can be used to **print** the **working directory**. 
-* The `ls` command can be used to **list** the files in the working directory. 
+* The `ls` command can be used to **list** the files in the working directory.  
+  If we want to list items line by line, we can use the `ls -1` command.  
+  The `ls -l` command can be used to **list** the files in the working directory with more information.  
+  
 * 
 
 
