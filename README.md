@@ -337,7 +337,7 @@ If the first command fails, the second command will not execute.
 There is also an OR operator `||` that can be used to chain commands.  
 For example: `pwd || ls -l || cd /home || ls -l`. This command will print the working directory, list the files in the working directory, change the working directory to the home directory and list the files in the home directory. If the first command fails, the second command will execute.  
 
-There is another technique of **piping** where we can use the `|` operator to chain commands.  
+There is another technique of **piping** where we can use the `|` operator to chain commands. It executes the first command and sends its output to the second command.  
 For example: `pwd | ls -l | cd /home | ls -l`. This command will print the working directory, list the files in the working directory, change the working directory to the home directory and list the files in the home directory. 
 
 
