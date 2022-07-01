@@ -276,7 +276,8 @@ The files that are updated frequently are stored in the `/var` directory, like l
 * The `ls` command can be used to **list** the files in the working directory.  
   If we want to list items line by line, we can use the `ls -1` command.  
   The `ls -l` command can be used to **list** the files in the working directory with more information.  
-  
+  The `ls -a` command can be used to **list** the files in the working directory with all the hidden files.  
+  The `ls -lR` command can be used to **list** the files in the working directory with more information and subdirectories.  
 * 
 
 
