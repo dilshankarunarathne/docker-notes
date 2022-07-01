@@ -221,8 +221,11 @@ We can pull this image into our machine by
 ```docker
 docker pull ubuntu
 ```
-
-
+But we can also use the 
+```docker
+docker run ubuntu 
+```
+command to run the image.
 
 
 
