@@ -309,7 +309,10 @@ We can chain multiple commands, by seperating each with a semi-colon `;`.
 For example: `pwd ; ls -l ; cd /home ; ls -l`. This command will print the working directory, list the files in the working directory, change the working directory to the home directory and list the files in the home directory.  
 
 By chaining commands with semi-colons, if a command fails, the next command will still be executed. This can have bad side effects.  
-To make sure - if a command fails, the subsequent commands will not execute, we can chain commands with `&&`. 
+To make sure - if a command fails, the subsequent commands will not execute, we can chain commands with the and operator `&&`.  
+For example: `pwd && ls -l && cd /home && ls -l`. This command will print the working directory, list the files in the working directory, change the working directory to the home directory and list the files in the home directory. 
+If the first command fails, the second command will not execute.  
+
 
 ## Standard I/O 
 
