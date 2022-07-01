@@ -181,10 +181,10 @@ If we used a different Node image, that's based on a different version of Linux
 we would get a different size for our image. 
 
 To run this image, we can just use the command `docker run <image-name>`.  
-<pre><code>
+```
 C:\Projects\Docker\docker training\docker-training\hello-docker>docker run hello-docker
 Hello Docker!
-</code></pre>
+```
 
 Now, if we want, we can publish this image on DockerHub - so, anyone can use this
 image. For testing - or production all we have to do is to pull and run this image.  
@@ -340,6 +340,14 @@ For example: `pwd || ls -l || cd /home || ls -l`. This command will print the wo
 There is another technique of **piping** where we can use the `|` operator to chain commands. It executes the first command and sends its output to the second command.  
 For example: `pwd | ls -l | cd /home | ls -l`. This command will print the working directory, list the files in the working directory, change the working directory to the home directory and list the files in the home directory. 
 
-
+When we have chained really long commands, we can make things a bit clear to read by splitting them into lines. When we press *enter* after a backslash `\`, the command will not be immediately executed. 
+For example: 
+```bash
+root@2f5656e1s65:~#pwd \ 
+ls -l \ 
+cd /home \ 
+ls -l
+```
+This command will print the working directory, list the files in the working directory, change the working directory to the home directory and list the files in the home directory.
 
 
