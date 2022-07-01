@@ -353,7 +353,9 @@ This command will print the working directory, list the files in the working dir
 ## Environment Variables 
 
 Environment variables are variables that are set in the environment of the system - just like variables in programs.  
-`printenv` command will display all the environment variables in the machine. 
+`printenv` command will display all the environment variables in the machine.  
+There will be a bunch of key-value pairs.  
+There is a very important environment variable called `PATH`. 
 
 
 
