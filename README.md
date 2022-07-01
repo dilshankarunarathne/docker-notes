@@ -211,9 +211,10 @@ After that, if we list all the available images, we will be able to see the
 image we just pulled.  
 We can run it with `docker run` command as usual.  
 
-# Linux 
+# Linux Containers 
 
-Docker is built on basic Linux concepts.  
+Docker is built on basic Linux concepts. We must be familiar with Linux commands to easily use Docker.  
+
 [Ubuntu - DockerHub](https://hub.docker.com/_/ubuntu): This image is built from official rootfs tarballs provided by Canonical.   
 The ubuntu:latest tag points to the "latest LTS", since that's the version recommended for general use. The ubuntu:rolling tag points to the latest release (regardless of LTS status).  
 
