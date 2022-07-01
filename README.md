@@ -255,15 +255,15 @@ If the package we want to install does not exist in the package database, we nee
 We can remove a package with the `apt remove <package name>` command.  
 
 In Linux, the root directory `/` is the top of the file system. It contains the following directories:
-* /bin
-* /boot
-* /dev
-* /etc
-* /home
-* /root
-* /lib
-* /var
-* /proc
+* /bin  - binaries for programs 
+* /boot - boot loader
+* /dev  - devices
+* /etc  - configuration files
+* /home - user home directories
+* /root - root home directory
+* /lib  - libraries
+* /var  - variables
+* /proc - process information
 * And also: /lib64, /media, /mnt, /opt, /sbin, /srv, /sys, /tmp, /usr 
 
 
