@@ -261,7 +261,7 @@ In Linux, the root directory `/` is the top of the file system. It contains the 
 * /etc  - configuration files (editable text configuration)
 * /home - user home directories, each user has a home directory here 
 * /root - root user's home directory
-* /lib  - libraries
+* /lib  - libraries, software dependencies 
 * /var  - variables
 * /proc - process information
 * And also: /lib64, /media, /mnt, /opt, /sbin, /srv, /sys, /tmp, /usr 
