@@ -343,10 +343,10 @@ For example: `pwd | ls -l | cd /home | ls -l`. This command will print the worki
 When we have chained really long commands, we can make things a bit clear to read by splitting them into lines. When we press *enter* after a backslash `\`, the command will not be immediately executed. 
 For example: 
 ```bash
-root@2f5656e1s65:~#pwd \ 
-ls -l \ 
-cd /home \ 
-ls -l
+root@2f5656e1s65:~#pwd ;\ 
+> ls -l ;\ 
+> cd /home ;\ 
+> ls -l
 ```
 This command will print the working directory, list the files in the working directory, change the working directory to the home directory and list the files in the home directory. 
 
