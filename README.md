@@ -305,6 +305,9 @@ The files that are updated frequently are stored in the `/var` directory, like l
   `less <file-path>` command can be used to **print** the contents of a file in more readable format. This is a newer command that is supposed to replace `more`. We might have to manually install it. 
 * `wc <file-path>` command can be used to **count** the lines, words and characters in a file. 
 
+We can chain multiple commands, by seperating each with a semi-colon `;`.  
+For example: `pwd ; ls -l ; cd /home ; ls -l`. This command will print the working directory, list the files in the working directory, change the working directory to the home directory and list the files in the home directory. 
+
 ## Standard I/O 
 
 In Linux, standard input represents the keyboard, and standard output is the screen. But we can always change the source of thes inputs or outputs. This is called **redirection**.  
@@ -327,7 +330,6 @@ In the same way, there is a redirection operator to redirect the standard input 
 
 ## Chaining Commands 
 
-We can chain multiple commands, by seperating each with a semi-colon `;`. 
 
 
 
