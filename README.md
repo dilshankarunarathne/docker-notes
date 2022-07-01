@@ -363,7 +363,7 @@ To check the value of a particular variable, we can use the `printenv <variable-
 We can also use the **echo** command with the variable name prefixed with a **$** symbol. For example: `echo $PATH`  
 
 To set an environment variable, we can use the **export** command. For example: `export DB_USER=test_user`  
-But, this variable will only be saved for the current session. 
+But, this variable will only be saved for the current terminal session. If we restart the terminal, it will be removed. 
 
 
 
