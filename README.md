@@ -258,8 +258,8 @@ In Linux, the root directory `/` is the top of the file system. It contains the 
 * /bin  - binaries for programs 
 * /boot - boot loader, files related to booting 
 * /dev  - devices
-* /etc  - configuration files
-* /home - user home directories
+* /etc  - configuration files (editable text configuration)
+* /home - user home directories, each user has a home directory here 
 * /root - root home directory
 * /lib  - libraries
 * /var  - variables
