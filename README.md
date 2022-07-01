@@ -245,6 +245,7 @@ The `#` means that we have the highest privilages. If we logged in as a non-root
 
 # Package Managers 
 
+Most of the softwares and development tools provides a package manager. For example: yarn, npm, pip, maven, gradle, etc.  
 
 
 
