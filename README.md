@@ -225,7 +225,7 @@ But we can also use the
 ```docker
 docker run ubuntu 
 ```
-command to run the image.
+command to run the image. If the image is not available, it will automatically pull it from DockerHub. 
 
 
 
