@@ -372,7 +372,11 @@ To set an environment variable, we can use the **export** command. For example: 
 But, this variable will only be saved for the current terminal session. If we restart the terminal, it will be removed. 
 
 To make this presistant, we need to save it in a special file.  
-There is a `.bashrc` file in the home directory. 
+There is a `.bashrc` file in the home directory. This is the user's starter file. Everytime we start the machine, Linux will execute these commands. So, we can write our permenant environment variables.  
+```bash
+root@2f5656e1s65:~# cd ~
+root@2f5656e1s65:~# echo DB_USER=test_user >> .bashrc
+```
 
 
 
