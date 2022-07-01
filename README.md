@@ -352,6 +352,13 @@ This command will print the working directory, list the files in the working dir
 
 ## Environment Variables 
 
+Environment variables are variables that are set in the environment of the system. 
+
+
+
+
+
+
 * `export <variable-name>=<value>` command can be used to **set** an environment variable.  
 * `unset <variable-name>` command can be used to **unset** an environment variable.  
 * `echo $<variable-name>` command can be used to **print** the value of an environment variable.  
