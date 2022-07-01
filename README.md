@@ -240,7 +240,7 @@ We will get a **shell** from this command. The **shell** will execute the comman
 `root` is the user account we're logged as. So, by default - we log in as the *root* user, which has the highest privilages.  
 `8c915e73ee0f` is the name of the machine. This container has an automatically generated id.  
 And after the `:` we have a `/` character. This is the **working directory** of the container. The forward slash represents the root directory of the container.  
-
+The `#` means that we have the highest privilages. 
 
 
 
