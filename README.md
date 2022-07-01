@@ -348,6 +348,6 @@ ls -l \
 cd /home \ 
 ls -l
 ```
-This command will print the working directory, list the files in the working directory, change the working directory to the home directory and list the files in the home directory.
+This command will print the working directory, list the files in the working directory, change the working directory to the home directory and list the files in the home directory. 
 
 
