@@ -384,4 +384,6 @@ We should never store sensitive information as environment variables. Because th
 
 Note that, the changes we make to the `bashrc` is only applied after the start of a new session. So, they will not be available till we restart our terminal session. 
 
-
+We can execute and push a command to the background using the `&` operator. For example: `ls -l &` will execute the `ls -l` command in the background and we will be able to execute other commands.  
+We can use the `ps -a` command to check the status of the background processes.  
+Also, we can use the `kill` command to kill the background processes. 
