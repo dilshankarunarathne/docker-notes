@@ -304,7 +304,8 @@ The files that are updated frequently are stored in the `/var` directory, like l
 
 ## Standard I/O 
 
-In Linux, standard input represents the keyboard, and standard output is the screen. 
+In Linux, standard input represents the keyboard, and standard output is the screen. But we can always change the source of thes inputs or outputs. This is called **redirection**.  
+
 
 
 
