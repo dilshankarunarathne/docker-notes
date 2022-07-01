@@ -327,7 +327,7 @@ In the same way, there is a redirection operator to redirect the standard input 
 
 ## Chaining Commands 
 
-
+We can chain multiple commands, by seperating each with a semi-colon `;`. 
 
 
 
