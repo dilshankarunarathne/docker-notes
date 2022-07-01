@@ -293,7 +293,7 @@ The files that are updated frequently are stored in the `/var` directory, like l
   `rm -rf <directory-path>` command can be used to **remove** a directory and all its subdirectories. 
 * `find <directory-path>` command can be used to **find** files in a directory.  
   To find only the directories, we can use the `find -type d` command.  
-  
+  To filter by file name, we can use the `find -name <file-name>` command. For the <file-name> argument, we can use the wildcard characters `*` and `?`. 
 * `grep <pattern> <file-path>` command can be used to **search** for a pattern in a file.  
   `grep -r <pattern> <directory-path>` command can be used to **search** for a pattern in all the files in a directory. 
 * `head <file-path>` command can be used to **print** the first 10 lines of a file.  
