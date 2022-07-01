@@ -237,6 +237,7 @@ root@8c915e73ee0f:/#
 ```
 We will get a **shell** from this command. The **shell** will execute the commands in the container.  
 `root@8c915e73ee0f:/#` is the **shell prompt**.  
-`root` is the user account we're logged as.  
+`root` is the user account we're logged as. So, by default - we log in as the *root* user, which has the highest privilages.  
+
 
 
