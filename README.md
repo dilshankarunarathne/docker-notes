@@ -355,13 +355,15 @@ This command will print the working directory, list the files in the working dir
 Environment variables are variables that are set in the environment of the system - just like variables in programs.  
 `printenv` command will display all the environment variables in the machine.  
 There will be a bunch of key-value pairs.  
+
 There is a very important environment variable called `PATH`. For the operating system to find a program, it is not going to search through all the files. It will only look at specific directories. Those directories are specified using this variable.  
 The list of directories as the value for the PATH variable must be seperated by colons `:`.  
 
 To check the value of a particular variable, we can use the `printenv <variable-name>` command.  
 We can also use the **echo** command with the variable name prefixed with a **$** symbol. For example: `echo $PATH`  
 
-
+To set an environment variable, we can use the **export** command. For example: `export DB_USER=test_user`  
+But, this variable will only be saved for the current session. 
 
 
 
