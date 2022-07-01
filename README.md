@@ -260,7 +260,7 @@ In Linux, the root directory `/` is the top of the file system. It contains the 
 * /dev  - devices
 * /etc  - configuration files (editable text configuration)
 * /home - user home directories, each user has a home directory here 
-* /root - root home directory
+* /root - root user's home directory
 * /lib  - libraries
 * /var  - variables
 * /proc - process information
@@ -268,5 +268,5 @@ In Linux, the root directory `/` is the top of the file system. It contains the 
 
 In Linux, everything is a file, including devices, directories, network sockets, pipes and etc.  
 Files that are used for accessing devices are stored in the `/dev` directory. 
-
+The files that are updated frequently are stored in the `/var` directory, like logfiles
 
