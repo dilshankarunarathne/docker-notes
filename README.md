@@ -277,7 +277,11 @@ The files that are updated frequently are stored in the `/var` directory, like l
   If we want to list items line by line, we can use the `ls -1` command.  
   The `ls -l` command can be used to **list** the files in the working directory with more information.  
   The `ls -a` command can be used to **list** the files in the working directory with all the hidden files.  
-  The `ls -lR` command can be used to **list** the files in the working directory with more information and subdirectories.  
+  The `ls -lR` command can be used to **list** the files in the working directory with more information and subdirectories. 
+* `cd` command can be used to **change** the **working directory**.  
+  `cd ..` will change the working directory to the parent directory.  
+  `cd /` will change the working directory to the root directory.  
+  `cd /home` will change the working directory to the home directory of the user.  
 * 
 
 
