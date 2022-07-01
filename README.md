@@ -256,7 +256,7 @@ We can remove a package with the `apt remove <package name>` command.
 
 In Linux, the root directory `/` is the top of the file system. It contains the following directories:
 * /bin  - binaries for programs 
-* /boot - boot loader
+* /boot - boot loader, files related to booting 
 * /dev  - devices
 * /etc  - configuration files
 * /home - user home directories
