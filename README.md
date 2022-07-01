@@ -317,6 +317,9 @@ If we hadn't used the redirection, content of both files will be printed out to 
 The redirection operator can be used pretty much anywhere. For example, if we have just a single line to write into a file, we don't need to use `nano`, we could just redirect the `echo` command.  
 `echo "Hello World" > file1.txt` will output `Hello World` to `file1.txt`. 
 
+We can list all the content of a directory and instead of printing it, we could redirect the output to a file.  
+`ls -l /etc > etc_dir.txt` will output the content of the `/etc` directory to `etc_dir.txt`. 
+
 
 
 
