@@ -225,7 +225,8 @@ But we can also use the
 ```docker
 docker run ubuntu 
 ```
-command to run the image. If the image is not available, it will automatically pull it from DockerHub. 
+command to run the image. If we have this image locally, Docker will start a container with that image. If the image is not available, it will automatically pull it from DockerHub.  
+
 
 
 
