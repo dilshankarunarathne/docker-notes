@@ -227,6 +227,7 @@ docker run ubuntu
 ```
 command to run the image. If we have this image locally, Docker will start a container with that image. If the image is not available, it will automatically pull it from DockerHub.  
 
+When we use the `docker run ubuntu` command, it automatically creates a container with the pulled (or existed) image. But because we never interacted with the container, it will stop after the image is downloaded and installed. 
 
 
 
