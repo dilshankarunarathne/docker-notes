@@ -250,7 +250,8 @@ Ubuntu has the **apt** package manager, which stands for *Advanced Package Tool*
 **apt** is the newer version of the **apt-get** package manager. **apt** is easier to use than **apt-get**.  
 
 We can install a package using *apt* by the command `apt install <package name>`.  
-Linux has a package database that contains all the packages. But not all these packages are installed in our machine. We can use the command `dpkg -l` to list all the packages installed on our machine. 
+Linux has a package database that contains all the packages. But not all these packages are installed in our machine. We can use the command `apt list` to list all the packages installed in our machine.  
+If the package we want to install does not exist in the package database, we need to update the packages list with the `apt update` command. 
 
 
 
