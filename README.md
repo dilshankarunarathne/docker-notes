@@ -386,4 +386,4 @@ Note that, the changes we make to the `bashrc` is only applied after the start o
 
 We can execute and push a command to the background using the `&` operator. For example: `ls -l &` will execute the `ls -l` command in the background and we will be able to execute other commands.  
 We can use the `ps -a` command to check the status of the background processes.  
-Also, we can use the `kill` command to kill the background processes. 
+Also, we can use the `kill <process-id>` command to kill the background processes. 
