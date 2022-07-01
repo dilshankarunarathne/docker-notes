@@ -306,7 +306,10 @@ The files that are updated frequently are stored in the `/var` directory, like l
 * `wc <file-path>` command can be used to **count** the lines, words and characters in a file. 
 
 We can chain multiple commands, by seperating each with a semi-colon `;`.  
-For example: `pwd ; ls -l ; cd /home ; ls -l`. This command will print the working directory, list the files in the working directory, change the working directory to the home directory and list the files in the home directory. 
+For example: `pwd ; ls -l ; cd /home ; ls -l`. This command will print the working directory, list the files in the working directory, change the working directory to the home directory and list the files in the home directory.  
+
+By chaining commands with semi-colons, if a command fails, the next command will still be executed. This can have bad side effects.  
+
 
 ## Standard I/O 
 
