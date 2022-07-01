@@ -249,7 +249,7 @@ Most of the softwares and development tools provides a package manager. For exam
 Ubuntu has the **apt** package manager, which stands for *Advanced Package Tool*.  
 **apt** is the newer version of the **apt-get** package manager. **apt** is easier to use than **apt-get**.  
 
-
+We can install a package using *apt* by the command `apt install <package name>`. 
 
 
 
