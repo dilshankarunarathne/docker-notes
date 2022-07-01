@@ -320,8 +320,9 @@ The redirection operator can be used pretty much anywhere. For example, if we ha
 We can list all the content of a directory and instead of printing it, we could redirect the output to a file.  
 `ls -l /etc > etc_dir.txt` will output the content of the `/etc` directory to `etc_dir.txt`. 
 
-In the same way, there is a redirection operator to redirect the standard input `<`.  
-`echo "Hello World" < file1.txt` will output `Hello World` to the standard input. 
+In the same way, there is a redirection operator to redirect the standard input `<`. 
+
+
 
 
 
