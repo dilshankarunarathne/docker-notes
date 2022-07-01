@@ -325,6 +325,8 @@ We can list all the content of a directory and instead of printing it, we could 
 
 In the same way, there is a redirection operator to redirect the standard input `<`. 
 
+## Chaining Commands 
+
 
 
 
