@@ -260,19 +260,19 @@ In Linux, the root directory `/` is the top of the file system. It contains the 
 * /dev
 * /etc
 * /home
+* /root
 * /lib
+* /var
+* /proc
 * /lib64
 * /media
 * /mnt
 * /opt
-* /proc
-* /root
 * /sbin
 * /srv
 * /sys
 * /tmp
 * /usr
-* /var
 
 
 
